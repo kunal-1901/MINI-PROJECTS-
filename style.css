@@ -1,0 +1,67 @@
+.up{
+    display: flex;
+    justify-content:space-evenly;
+    align-content: flex-start;
+    background-color:#FFCD9E;
+    
+}
+.image{
+    display: flex;
+    align-content: flex-end;
+}
+.h1{
+    font-weight: bolder
+}
+
+.email{
+    margin-block: 20px;
+    justify-content:space-evenly;
+    justify-content: space-around;
+    align-items:flex-start;
+    /* background-color: black; */
+    color: white;
+    
+    
+}
+
+.note{
+    height: 20px;
+    width: 50px;
+    font-size: small;
+    color: white;
+    text-align:start;
+}
+
+
+.below{
+    color: white;
+    background-color: black;
+    padding: 20px;
+}
+
+.below{
+    display:flex;
+    justify-content: right;
+}
+
+
+
+.three{
+    display: flex;
+    justify-content: space-between;
+    width: 250%;
+    
+}
+.four{
+    text-align: end;
+    padding-right: 40px;
+    justify-content:space-between;
+}
+.social{
+      display: flex;
+      align-content:end;
+      justify-content: space-evenly;
+}
+.p6{
+    align-items: flex-end;
+}
